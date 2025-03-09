@@ -1,0 +1,14 @@
+guest book
+
+welcome user (ask for name).
+- string name
+
+# of ppl in party.
+- int numPeople
+
+keep track of # of ppl in party.
+- int totalNumPeople (add to total)
+
+check if more guests are coming.
+- if so, loop to beginning
+- else, print out guest list and total # of guests

@@ -4,6 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Methods.Welcome();
+        var (totalGuests, guests) = Methods.GetAllGuests();
+        Methods.DisplayGuests(guests);
+        Methods.DisplayGuestCount(totalGuests);
     }
 }

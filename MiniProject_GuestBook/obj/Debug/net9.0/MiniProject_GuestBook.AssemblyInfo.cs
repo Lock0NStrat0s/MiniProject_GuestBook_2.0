@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniProject_GuestBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9325c7c708ed29653d9f59d25ed3fded5a94c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniProject_GuestBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniProject_GuestBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

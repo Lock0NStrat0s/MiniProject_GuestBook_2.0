@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A28EF232-BE31-4E85-B8D1-AA2090210C98}|MiniProject_GuestBook\\MiniProject_GuestBook.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\iamtimcorey\\c#_master_course\\0.2025_redo\\miniproject_guestbookapp\\miniproject_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A28EF232-BE31-4E85-B8D1-AA2090210C98}|MiniProject_GuestBook\\MiniProject_GuestBook.csproj|solutionrelative:miniproject_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF232-BE31-4E85-B8D1-AA2090210C98}|MiniProject_GuestBook\\MiniProject_GuestBook.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\iamtimcorey\\c#_master_course\\0.2025_redo\\miniproject_guestbookapp\\miniproject_guestbook\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF232-BE31-4E85-B8D1-AA2090210C98}|MiniProject_GuestBook\\MiniProject_GuestBook.csproj|solutionrelative:miniproject_guestbook\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,30 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_GuestBookApp\\MiniProject_GuestBook\\Program.cs",
               "RelativeDocumentMoniker": "MiniProject_GuestBook\\Program.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_GuestBookApp\\MiniProject_GuestBook\\Program.cs",
-              "RelativeToolTip": "MiniProject_GuestBook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_GuestBookApp\\MiniProject_GuestBook\\Program.cs*",
+              "RelativeToolTip": "MiniProject_GuestBook\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T21:17:24.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_GuestBookApp\\MiniProject_GuestBook\\Methods.cs",
+              "RelativeDocumentMoniker": "MiniProject_GuestBook\\Methods.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_GuestBookApp\\MiniProject_GuestBook\\Methods.cs*",
+              "RelativeToolTip": "MiniProject_GuestBook\\Methods.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:24:06.864Z",
               "EditorCaption": ""
             }
           ]

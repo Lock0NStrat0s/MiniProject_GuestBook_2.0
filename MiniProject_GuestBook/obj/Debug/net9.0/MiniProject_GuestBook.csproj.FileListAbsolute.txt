@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\bin\Debug\net9.0\MiniProject_GuestBook.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\bin\Debug\net9.0\MiniProject_GuestBook.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\bin\Debug\net9.0\MiniProject_GuestBook.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\bin\Debug\net9.0\MiniProject_GuestBook.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\bin\Debug\net9.0\MiniProject_GuestBook.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\refint\MiniProject_GuestBook.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\MiniProject_GuestBook.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_GuestBookApp\MiniProject_GuestBook\obj\Debug\net9.0\ref\MiniProject_GuestBook.dll
